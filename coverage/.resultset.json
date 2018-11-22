@@ -1,7 +1,20 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/tomdoh/makers_projects/Daily-Diary/spec/features/creating_diary_entry_spec.rb": [
+      "/Users/tomdoh/makers_projects/Daily-Diary/spec/diary_entry_spec.rb": [
+
+      ],
+      "/Users/tomdoh/makers_projects/Daily-Diary/spec/features/adding_diary_entry_spec.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
         1,
         1,
         1,
@@ -10,6 +23,6 @@
         null
       ]
     },
-    "timestamp": 1542887466
+    "timestamp": 1542890720
   }
 }
